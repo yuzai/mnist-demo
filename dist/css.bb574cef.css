@@ -1,0 +1,53 @@
+#content {
+  padding: 15px;
+}
+canvas {
+  width: 200px;
+}
+.prediction-canvas{
+  width: 100px;
+}
+.pred {
+  font-size: 20px;
+  line-height: 25px;
+  width: 100px;
+}
+.pred-correct {
+  background-color: #00cf00;
+}
+.pred-incorrect {
+  background-color: red;
+}
+.pred-container {
+  display: inline-block;
+  width: 100px;
+  margin: 10px;
+}
+#lossCanvas > div, #accuracyCanvas > div {
+  display: none;
+}
+.canvases {
+  display: inline-block;
+}
+.hparam-label {
+  display: inline-block;
+  width: 250px;
+}
+.predict-result-bar{
+  transition: width .3s ease;
+  background-color: skyblue;
+  display: inline-block;
+  height: 24px;
+}
+.predict-result-data{
+  display: inline-block; 
+  width: 300px;
+}
+.wrapper{
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+#predict-result{
+  list-style-type: none;
+}

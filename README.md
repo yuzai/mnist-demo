@@ -13,9 +13,9 @@ mnist手写字体识别
 
 ### 演示地址
 
-打包没有经过优化，完全参照parcel默认配置来的，js包可能较大，不要介意
+打包没有经过优化，完全参照parcel默认配置来的，js包可能较大，同时静态文件是直接丢在github上的，速度会比较慢，不要介意
 
-http://blog.maxiaobo.com.cn//mnist-demo/dist/
+http://blog.maxiaobo.com.cn/mnist-demo/dist/
 
 # TensorFlow.js Example: Training MNIST
 

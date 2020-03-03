@@ -11,6 +11,12 @@ mnist手写字体识别
 2. 代码参考tensorflow.js示例修改而来
 3. 有问题随便问哈@maxiaobo
 
+### 演示地址
+
+打包没有经过优化，完全参照parcel默认配置来的，js包可能较大，不要介意
+
+http://blog.maxiaobo.com.cn//mnist-demo/dist/
+
 # TensorFlow.js Example: Training MNIST
 
 This example shows you how to train MNIST (using the layers API).

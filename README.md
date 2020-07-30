@@ -2,9 +2,8 @@
 mnist手写字体识别
 
 ### 运行方法
-1. nbm i 
-2. nbm i -g parcel
-3. nbm run watch
+1. yarn
+2. npm run watch
 
 ### more
 1. 不要吐槽代码风格，一切都是以能运行为标准
